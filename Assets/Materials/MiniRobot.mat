@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: MiniRobot
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -26,7 +26,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 6d4a86bcc56d42b47bafc5ce3ae537e9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8ae5eb26b97154f49ae8254c1de039ff, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -46,15 +46,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 34f8f1192dcb55f4bbf768b782771434, type: 3}
+        m_Texture: {fileID: 2800000, guid: 577063f705ad4074ebd2d63bd1e80dcd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 9502fe6a81ca97f408e0e12369582ce2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 04bb9ed0e51e9d74ca71154e427d8153, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 324f7efaf1dfbf64aadb3fcbf7c243ef, type: 3}
+        m_Texture: {fileID: 2800000, guid: 00e322777128347459530b66e774a31b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
